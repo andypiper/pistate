@@ -1,11 +1,5 @@
 #!/usr/bin/python
 
-# TODO error handling around CPU/GPU etc
-# TODO looping temperature update
-# TODO check for root access
-# TODO exit handler
-# TODO daemonize
-
 # import required libraries
 import mosquitto
 import RPi.GPIO as GPIO

@@ -16,6 +16,7 @@ Preliminary support for controlling BerryClip attached on the GPIO pins.
 
 ### TODO
 
+ * proper Python class
  * error handling around CPU/GPU etc
  * looping temperature update
  * check for root access

@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# PiState - a simple tool to publish Raspberry Pi status over MQTT
 
 # import required libraries
 import mosquitto

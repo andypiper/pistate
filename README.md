@@ -5,8 +5,8 @@ A Python-based MQTT publisher for data about the state of a Raspberry Pi and GPI
 
 ### Requirements
 
-python-mosquitto MQTT client library
-RPi.GPIO library for access to Raspberry Pi GPIO pins
+ * python-mosquitto MQTT client library
+ * RPi.GPIO library for access to Raspberry Pi GPIO pins
 
 ### Current state
 
